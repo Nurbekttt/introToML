@@ -1,0 +1,1000 @@
+Code,Profession rus,Profession eng
+5B130300,Педиатр,Pediatrician
+5B130300,Неонатолог,neonatologist
+5B130300,Геронтолог,Gerontologist
+5B130300,Детский кардиолог,pediatric cardiologist
+5B130300,Невропатолог,neuropathist
+5B130300,Отоларинголог,Otolaryngologist
+5B130300,Гематолог,Hematologist
+5B130300,Гинеколог,Gynecologist
+5B130300,Рентгенолог,Radiologist
+5B130300,Офтальмолог,Ophthalmologist
+5B130300,Хирург,Surgeon
+5B130300,Эндокринолог,endocrinologist
+5B130300,Ортопед,Orthopedist
+5B130300,Диетолог,Nutritionist
+5B130200,Стоматолог-терапевт,Dental therapist
+5B130200,Стоматолог-ортопед,Prosthodontist
+5B130200,Стоматолог-хирург,Dental surgeon
+5B130200,Челюстно-лицевой хирург,Maxillofacial surgeon
+5B130200,Детский психолог,Child psychologist
+5B130200,Стоматолог-ортодонт ,Orthodontist
+5B130200,Пародонтолог,periodontist
+5B130200,Зубной техник,Dental Technician
+5B130200,Керамист ,ceramist
+5B130200,Съемщик,Tenant
+5B130200,Дантист,Dentist
+5B130100,Врач общей практики,General doctor
+5B130100,Гигиенист-эпедемиолог,Hygienist-epedemiolog
+5B130100,Врач внутренних болезней,Physician Internal Medicine
+5B130100,Хирург,Surgeon
+5B130100,Педиатр,Pediatrician
+5B130100,Акушер-гинеколог,Obstetrician-gynecologist
+5B120200,Ветеринарный инспектор,veterinary inspector
+5B120200,Ветеринар санитар,vet medic
+5B120200,Лаборант,assistant
+5B120100,Терапевт процедур,therapist procedures
+5B120100,Профилактик инфекционных заболиваний,Prevention of infectious zabolivany
+5B120100,Диагност,Diagnostician
+5B110200,Менеджер,Manager
+5B110200,Чиновник,Official
+5B110200,Практикующий врач,Practicing doctor
+5B110200,Клиницист,Clinician
+5B110200,Преподаватель вуза,University professor
+5B110100,Медсестра,Nurse
+5B110100,Администратор,Administrator
+5B110100,Регистратор,recorder
+5B110100,Массажист,Masseur
+5B110100,Менеджер в сфере здравоохранения,health manager
+5B100200,Администратор базы данных,Database Administrator
+5B100200,Инженер по защите информации,Engineer Data Protection
+5B100200,Специалист в сфере IT,A specialist in the field of IT
+5B100200,Разработчик баз данных,Database Developer
+5B100200,Специалист программно-аппаратной защиты информации,The specialist software and hardware protection information
+5B100200,Специалист SAP,SAP specialist
+5B100200,Программист,Programmer
+5B100200,Специалист в административных органах,Specialist in administrative bodies
+5B100200,Менеджер по персоналу в кадровых службах,Human Resources Manager Human Resources
+5B100200,Социальный педагог,Social teacher
+5B100200,Педагог самопознания,teacher self
+5B100200,Специалист по защите прав ребенка,child protection specialist
+5B100200,Социальный работник ,Social worker
+5B091200,Менеджер в индустрии,Industry Manager
+5B091200,Администратор,Administrator
+5B091200,Помощник руководителя,assistant manager
+5B091200,Управляющий ресторана ,restaurant manager
+5B091200,Управаляющий гостиницы,Upravalyayuschy hotels
+5B091200,Руководитель службы приема и размещения в гостиницах,Head of Service in the hotels reception
+5B091200,Метрдотель,headwaiter
+5B091200,Менеджер зала,hall manager
+5B091200,Начальник службы бронирования,Head booking service
+5B091200,Управляющий персоналом ,Managing staff
+5B091000,Библиотекарь,Librarian
+5B091000,Библиограф,Bibliographer
+5B091000,Методист,Methodist
+5B091000,Информатор,informant
+5B091000,Заведующий сектором библиотеки,Head of the Sector of the library
+5B091000,Архивист,archivist
+5B091000,Документовед,", document"
+5B091000,Музейный работник,museum worker
+5B091000,Научный сотрудник НИИ,SRI Researcher
+5B091000,Преподаватель библиотечного колледжа,Library College Teacher
+5B090900,Логист,logistician
+5B090800,Оценщик инвестиционных рисковых проектов,Appraiser investment risk projects
+5B090800,Оценщик залогового имущества,The evaluator of collateral
+5B090800,Оценщик ценных бумаг,Appraiser securities
+5B090800,Оценщик интеллектуальной собсвенности ,Appraiser intellectual sobsvenno
+5B090800,Оценщик налогооблагаемого и ликвидационного имущества ,Appraiser and liquidation of taxable property
+5B090800,Оценщик бизнеса и проектов,Appraiser and business projects
+5B090700,Специалист-кадастровист,Specialist kadastrovist
+5B090700,Геодезист,Surveyor
+5B090700,Картограф,Cartographer
+5B090700,Инспектор по управлению земельными делами,of Land affairs inspector
+5B090500,Социальный психолог,social psychologist
+5B090500,Социальный педагог,Social teacher
+5B090500,Геронтолог,Gerontologist
+5B090500,Конфликтолог,Conflict resolution
+5B090500,Специалист службы занятости,Employment Service Specialist
+5B090500,Специалист органов пенсионного обеспечения,bodies pensions specialist
+5B090500,Специалист по работе с мигрантами,Specialist for migrants
+5B090500,Инспектор отдела по делам нсовершеннолетних,Affairs Department inspector nsovershennoletnih
+5B090500,Валеолог,valeologist
+5B090500,Корпоративный антрополог,Corporate anthropologist
+5B090500,Социальный инженер ,social engineer
+5B090300,Геодезист,Surveyor
+5B090300,Специалист по управлению земельными ресурсами,Land management specialist
+5B090300,Проектировщик,Designer
+5B090200,Менеджер развлечений,entertainment manager
+5B090200,Администратор гостиницы,Hotel administrator
+5B090200,Аниматор,animator
+5B090200,Валеолог,valeologist
+5B090200,Гид-переводчик,Guide-interpreter
+5B090200,Менеджер гостиничного сервиса,The manager of hotel service
+5B090200,Менеджер по работе с клиентами,Account Manager
+5B090200,Менеджер ресторана,The restaurant manager
+5B090200,Ресторатор,restaurateur
+5B090200,Специалист по санаторно-курортному делу,Sanatorium and resort business specialist
+5B090200,Специалист по социально-культурной деятельности,socio-cultural activities Specialist
+5B090200,Специалист по сервису на транспорте,for service transport specialist
+5B090200,Экскурсовод,Guide
+5B090100,Инженер по безопасности дорожного движения,Engineer Road Safety
+5B090100,Диспетчер по транспорту ,Manager Transport
+5B090100,Начальник отдела по бесопастности движения,Head of traffic besopastnosti
+5B090100,Координатор по авиа перевозкам,on air transport coordinator
+5B090100,Специалист по организации грузоперевозок,A specialist in the organization of cargo transportation
+5B090100,Логист по железнодорожной перевозке,Logistician of Carriage
+5B090100,Начальник транспортного отдела,Head of Transport Department
+5B090100,Заведующий контейнерной площадкой ,Head of the container platform
+5B090100,Водитель-экспедитор,Delivery driver
+5B090100,Светооператор/Светохудожник,Gaffer / Svetohudozhnik
+5B080900,Агроном,Agronomist
+5B080900,Технолог,Technologist
+5B080900,Научный сотдрудник,scientific sotdrudnik
+5B080900,Преподаватель в аграрных колледжах,Teacher in agricultural colleges
+5B080900,Работник департамента сельского хозяйства,An employee of the Department of Agriculture
+5B080900,Работник комитета по охране окружающей среде,Worker Committee on Environmental Protection
+5B080800,Эколог,Ecologist
+5B080800,Научный сотрудник,Researcher
+5B080800,Почвовед,soil scientist
+5B080800,Преподаватель,Teacher
+5B080800,Инженер по сертификации продукции,Engineer Product Certification
+5B080800,Контролер качеств,quality inspector
+5B080800,Агрохимик,agrochemist
+5B080800,Технолог сельскохозяйственной отрасли,Technologist agriculture
+5B080800,Микробиолог,Microbiologist
+5B080800,Ландшафтный дизайнер,Landscape designer
+5B080700,Лесоустроитель,forest managers
+5B080700,Инженер лесных культур,Engineer plantations
+5B080700,Ландшафтный дизайнер,Landscape designer
+5B080700,Лесомелиоратором,Lesomelioratorom
+5B080700,Мастер лесного питомника,forest nursery Master
+5B080700,Лесник,Forester
+5B080700,Инвертаризатор лесных культур,Invertarizator plantations
+5B080700,Разработка лесных питомников,The development of forest nurseries
+5B080600,Сотрудник сельхозформирований,employee agricultural enterprises
+5B080600,Содтрудник машинотехнологических станций,Sodtrudnik mashinotehnologicheskih stations
+5B080600,Сотрудник сельхозорганизаций собственности,Employee ownership of agricultural
+5B080600,Сотрудник научных исследований,Employee research
+5B080600,Сотрудник научного производства,An employee of scientific production
+5B080600,Организатор конструктивных проектов,Organizer constructive projects
+5B080500,Научный сотрудник,Researcher
+5B080500,Инженер лаборант,assistant engineer
+5B080500,Инженер водозозяйственных систем,Engineer vodozozyaystvennyh systems
+5B080500,Инженер научно-исследовательских учреждений,Engineering research institutions
+5B080500,Охрана водяных и земельных ресурсов,Protection of water and land resources
+5B080400,Инженер-судоводитель,Engineer-navigator
+5B080400,Инженер-конструктор,Design Engineer
+5B080400,Ихтиолог,Ichthyologist
+5B080400,Рыбовод,pisciculturist
+5B080400,Рыбообработчик,Fish processors
+5B080400,Рыболов,fisherman
+5B080400,Изготовитель орудий лова,Manufacturer of gear
+5B080400,Инспектор рыбоохраны,inspector of Fisheries
+5B080300,Егерь,gamekeeper
+5B080300,Зверовед зоологических баз,Zveroved zoological bases
+5B080300,Зверовод,Farmer
+5B080300,Кроликовод,The breeder
+5B080300,Охотник промысловый,hunter fishing
+5B080300,Таксидермист,Taxidermist
+5B080100,Эколог,Ecologist
+5B080100,Специалист по испытанию/производству пестицидов,Specialist on testing / pesticide
+5B080100,Агроном-герболог,Agronomist-herbology
+5B080100,Фитопатолог,plant pathology
+5B080100,Энтомолог,Entomologist
+5B080100,Агрохимик,agrochemist
+5B080100,Агроинженер,agricultural engineer
+5B075200,Строитель,Builder
+5B075200,Инженер по теплогазоснабжению,Heating Engineer
+5B075200,Инженер по водоснабжению,Water engineer
+5B075200,Инженер по теплоэнергетике,Engineer power system
+5B075200,Электроноситель,Elektronositel
+5B075200,Санитар,orderly
+5B075200,Эколог,Ecologist
+5B075000,Разработка нормативно-технической-документации,Development of specifications and technical documentation
+5B075000,Метролог,metrologist
+5B075000,Эксперт конструктивной эксплуатации,Expert constructive operation
+5B075000,Аналитик качества продукции,Quality Analyst product
+5B075000,"Обслуживание,организация",Service organization
+5B075000,Эксперементатор научных разработок,Eksperementator scientific developments
+5B073800,Кузнец,Blacksmith
+5B073800,Трубопрокатчик,Truboprokatchik
+5B073800,Прокатчик горячего металла,hot metal Distributors
+5B073700,Горный инженер,Mining engineer
+5B073700,Горный инженер-обогатитель,Mining engineer-dressing
+5B073700,Техник-обогатитель,Technician-dressing
+5B073700,Техник-технолог,Technician
+5B073700,Аналитик по процессам обогащения,of the enrichment process analyst
+5B073700,Начальник участка обогащения ,Head portion enrichment
+5B073700,Дробильщик,breaker
+5B073700,Машинист установок обогащения,Machinist enrichment plants
+5B073300,Дизайнер интерьера,Interior designer
+5B073300,Дизайнер одежды,Clothes designer
+5B073300,Конфекционер,Konfektsioner
+5B073300,Контролер качества текстильных изделий,Controller textile quality
+5B073300,Дизайнер-конструктор,Designer Design
+5B073300,Модельер-закройщик,Fashion Tailor
+5B073300,Модельер-конструктор,Fashion designer
+5B073300,Промышленный дизайнер,industrial designer
+5B073300,Товаровед,Goods
+5B073200,Инженер по стандартизации,Standardization engineer
+5B073200,Инженер по сертификации,Engineer Certification
+5B073200,Инженер-метролог,Engineer-metrologist
+5B073200,Техник-метролог,Technician metrologist
+5B073200,Инспектор,Inspector
+5B073200,Научный сотрудник ,Researcher
+5B073200,Менеджер по качеству,Quality manager
+5B073100,Сотрудник безопасности окружающей среды,Employee safety of the environment
+5B073100,Сотрудник МЧС,Emergency Situations Ministry
+5B073100,Эколог,Ecologist
+5B073000,Руководитель-мастер участка,Head-Foreman
+5B073000,Начальник цеха,Foreman
+5B073000,Мастер цеха,shop master
+5B073000,Начальник смены,Shift Supervisor
+5B073000,Производитель работ,Foreperson
+5B073000,Начальник хозяйственного отдела,Head of economic department
+5B073000,Начальник ремонтного цеха,The repair center
+5B073000,Инженер-конструктор III категории,Design engineer Category III
+5B073000,Инженер-лаборант II категории,Engineer technician category II
+5B073000,Инженер по автоматизации и механизации ,Engineer automation and mechanization
+5B073000,Инженер по комплектации оборудования,Engineer equipment details
+5B073000,Инженер по надзору за строительством,Engineer Construction Supervision
+5B073000,Инженер по наладке и испытания,Engineer for commissioning and testing
+5B073000,Инженер по научно-технической информации,Engineer Scientific and Technical Information
+5B073000,Техник-конструктор,Technician-Designer
+5B073000,Техник-технолог,Technician
+5B073000,Преподаватель в колледжах,Teacher colleges
+5B072900,Инженер строительной сферы,The engineer of the construction sector
+5B072900,Сметчик,estimator
+5B072900,Ландшафтный архитектор,Landscape architect
+5B072900,Риэлтор,realtor
+5B072900,Энергетик,Energetic
+5B072900,Строитель,Builder
+5B072900,Эколог градостраительства,ecologist gradostraitelstva
+5B072900,Специалист по облицовке,Revetment specialist
+5B072600,инженер-технолог,Process Engineer
+5B072600,инженер-лаборант в производственных лабораториях,engineering technician in industrial laboratories
+5B072600,специалист в центрах стандартизации и сертификации,specialist in standardization and certification centers
+5B072600,модельер на предприятиях текстильной и легкой промышленности,fashion at the enterprises of textile and light industry
+5B072500,Станочник-распиловщик,Machinist-sawyer
+5B072500,Рамщик,Ramschik
+5B072500,Оператор установок и линий переработки лесоматериала,plant operator and processing of timber lines
+5B072500,Оператор агрегатных линий сортировки и переработки древесины,Operator aggregate sorting lines and processing of wood
+5B072500,Разметчик,Marker
+5B072500,Укладчик,palletizer
+5B072500,Размольщик,Razmolschik
+5B072500,Лущильщик шпона,veneer Luschilschik
+5B072400,Менеджер по продажам автомобилей,Car Sales Manager
+5B072400,Автомеханик,Mechanic
+5B072400,Дефектоскопист нефтепроводов,oil engineer
+5B072400,Дизайнер 3D,designer 3D
+5B072400,Руководитель нефтебазы,Head of Oil Depot
+5B072400,Инженер пищевой промышленности,Engineer food industry
+5B072400,Специалист по автоматизации,automation specialist
+5B072400,Инженер по механизации производственных процессов,Engineer mechanization of production processes
+5B072400,Инженер по бурению,Drilling Engineer
+5B072400,Инженер по лифтовому оборудованию,Engineer lifting equipment
+5B072400,Инженер по металлургическим машинам и оборудованию,Engineer Metallurgical machinery and equipment
+5B072300,Инженер по криогенной технике,Cryogenics engineer
+5B072300,Инженер оптико-электронных приборов,Engineer optoelectronic devices
+5B072300,Геофизик,geophysicist
+5B072300,Биофизик,biophysicist
+5B072300,Архитектор медоборудования ,architect medical
+5B072300,Инженер электронной техники,Electronic Engineer
+5B072300,Инженер-геофизик,Geophysicist
+5B072300,Инженер-исследователь,Research engineer
+5B071900,Звукорежиссер,soundman
+5B071900,Инженер оптико-электронных приборов,Engineer optoelectronic devices
+5B071900,Инженер по авиационному и радиоэлектронному оборудованию,Engineer aircraft and avionics equipment
+5B071900,Инженер по приборам ориентации,Engineer orientation devices
+5B071900,Инженер по радиоэлектронной борьбе,Engineer electronic warfare
+5B071900,Инженер по спутниковым коммуникациям,Engineer for satellite communications
+5B071900,Инженер по телевизионному оборудованию,TV technician engineer
+5B071900,Инженер по электромагнитной совместимости,Engineer at EMC
+5B071900,Инженер-интерпретатор данных телеметрии,Engineer-interpreter telemetry data
+5B071900,Инженер-исследователь по развитию спутниковых систем,Research engineer for the development of satellite systems
+5B071900,Инженер-конструктор радиоэлектронной аппаратуры,Design engineer electronics
+5B071900,Инженер-радиотехник,Radio engineer
+5B071900,Кинооператор,Cameraman
+5B071900,Мастер по ремонту техники,repair equipment technician
+5B071900,Проектировщик антенно-фидерных устройств,Design of antenna-feeder devices
+5B071900,Радиозвукотехник,Radiozvukotehnik
+5B071900,Радиоинженер,Radio engineer
+5B071900,Радиомеханик,Radiomechanic
+5B071900,Специалист по фотонике,on photonics specialist
+5B071800,Техник 1 категории,Technician 1 categories
+5B071800,Младший научный сотрудник,Junior Researcher
+5B071800,Инженер-лаборант,Engineer technician
+5B071800,Инженер-конструктор,Design Engineer
+5B071800,Электрик,Electrician
+5B071800,Электромеханик,electrician
+5B071700,Архитектор энергетических автономных домов,Architect energy independent building
+5B071700,Диспетчер энергосистемы,grid manager
+5B071700,Инженер по автоматизации,Automation engineer
+5B071700,Инженер по автоматизации технологических процессов ,Engineer Process Automation
+5B071700,Инженер по водоснабжению и водоотведению,Engineer Water Supply and Sewerage
+5B071700,Инженер по организации и нормированию труда,Engineer Labor norms
+5B071700,Инженер по электротехнологическим установкам,Engineer of electro installations
+5B071700,Инженер теплоснабжения и вентиляции,Heating and ventilation engineer
+5B071700,Инженер-проектировщик систем теплоснабжения,Design Engineer heating systems
+5B071700,Инженер-проектировщик тепловых сетей,Design Engineer heating networks
+5B071700,Инженер-схемотехник,Circuit design engineer
+5B071700,Инженер-теплотехник ,Heating engineer
+5B071700,Инженер-теплофизик ,Thermophysical engineer
+5B071700,Инженер-теплоэнергетик ,Heating energy engineer
+5B071700,Инженер-термофизик,Engineer Thermophysics
+5B071700,Инженер-экономист ,Engineer-economist
+5B071700,Инженер-электротехник,Electrical engineer
+5B071700,Менеджер на производстве,in the production manager
+5B071700,Менеджер по модернизации систем энергогенерации,Manager for the modernization of power generation systems
+5B071700,Работчик систем энергопотребления,The responsibility of carrying energy systems
+5B071700,Системный инженер интеллектальных энеростей ,Systems Engineer intellektalnyh Ener
+5B071700,Специалист по планированию,planner
+5B071700,Экономист,Economist
+5B071700,Энергоаудитор,Energy Auditor
+5B071600,Авиацонный инженер,Aviation engineer
+5B071600,Аналитик компьютерных систем,Computer Systems Analyst
+5B071600,Бортинженер,flight engineer
+5B071600,Гидроакустик,hydroacoustics
+5B071600,Инженер АСУ ТП,Engineer APCS
+5B071600,Инженер ВОЛС,fiber optic engineer
+5B071600,Инженер КИПиА,instrumentation engineer
+5B071600,Инженер оптико-электронных приборов,Engineer optoelectronic devices
+5B071600,Инженер по автоматизации и механизации ,Engineer automation and mechanization
+5B071600,Инженер по вычислительно-измерительных систем,Engineer computationally-measuring systems
+5B071600,Инженер по лазерной технике ,Engineer laser technique
+5B071600,Инженер по медицинской технике ,Medical equipment engineer
+5B071600,Инженер приборостроения,Instrumentation engineer
+5B071600,Инженер электронной техники,Electronic Engineer
+5B071600,Инженер-конструктор,Design Engineer
+5B071600,Инженер-метролог,Engineer-metrologist
+5B071600,Инженер-системотехник,System engineer
+5B071600,Конструктор-проектировщик нефтегазового оборудвания,Designer design of oil and gas facilities Furniture
+5B071600,Монтажник радиоэлектронной аппаратуры,electronics installer
+5B071600,Приборист ,instrument operators
+5B071500,Младший научный сотрудник,Junior Researcher
+5B071500,Инженер-лаборант,Engineer technician
+5B071500,Инженер научно-исследовательских организаций,Engineer Research Organizations
+5B071500,Инженер конструкторских организации,Engineering design company
+5B071500,Инженер проектных организации,Engineering design company
+5B071400,Разработчик  методических документов,Developer guidance documents
+5B071400,Работник по информационному обслуживанию,information services worker
+5B071400,Эксперт по технической документации,Technical documentation expert
+5B071400,Организатор работ по повышению знаний,Organizer works to improve the knowledge
+5B071400,Исследователь эксплуатации авиационной техники,Researcher aircraft operation
+5B071400,Исследователь методов и средств авиационной технологий,methods researcher and aeronautical technologies
+5B071400,Аналитик научно-технических данных,Analyst scientific and technical data
+5B071100,Организатор геодезических работ,Organizer surveying
+5B071100,Организатор инженерно-геодезических работ,Organizer engineering and surveying
+5B071100,Составление карт,mapping
+5B071100,Производство спутниковых измерений,Satellite measurements
+5B071100,Нивелирные работ всех классов,Leveling works of all classes
+5B071100,Картограф (Территориальное планирование),Cartographer (Spatial Planning)
+5B071100,Обработка результатов геодезических измерений,Processing of geodetic measurements
+5B071100,Составление проектно-сметной документаций,Compilation of design and estimate documentation
+5B071100,Организатор картографо-геодезических работ,Organizer of cartographic and geodetic works
+5B071100,Геодезист,Surveyor
+5B071100,Топограф картологических сьемок,Surveyor kartologicheskih filming
+5B071100,Фотограмметрист,photogrammeter
+5B071100,Научный сотрудник,Researcher
+5B071100,Преподаватель геодезии,geodesy teacher
+5B071000,Исследователь химического состава,chemistry researcher
+5B071000,Разработчик технологий,Developer technology
+5B070900,Организатор производственно-технических работ,The organizer of production and technical work
+5B070900,Научный сотрудник,Researcher
+5B070900,Младший научный сотрудник,Junior Researcher
+5B070900,Металлург,Metallurgist
+5B070900,Химик,Chemist
+5B070900,Сотрудник горно-химических предприятий,Fellow mining and chemical enterprises
+5B070900,Сотрудник машиностроительных производств,Employee machine industry
+5B070900,Контроллер технических процессов,Controller technical processes
+5B070800,Помощник бурильщика,Driller assistant
+5B070800,Бурильщик,Driller
+5B070800,Мастер,Master
+5B070800,Оператор по добыче нефти и газа,The operator of oil and gas
+5B070800,Оператор по исследованиям скважин ,Research on wells operator
+5B070800,Оператор цеха поддержания пластового давления,Operator shop maintain reservoir pressure
+5B070800,Оператор цеха подготовки и перекачки нефти,plant operator oil treatment and pumping
+5B070800,Лаборант головных сооружении,Laboratory headworks
+5B070800,Оператор цеха научно-исследовательских работ,Operator shop research projects
+5B070800,Помощник мастера подземного и капитального ремонта скважин,Assistant wizard underground and workover
+5B070800,Супервайзер по добыче нефти и газа,Supervisor oil and gas
+5B070800,Супервайзер цеха поддержания пластового давления ,Supervisor reservoir pressure maintenance workshop
+5B070800,Супервайзер цеха подготовки и перекачки нефти,Shop supervisor oil treatment and pumping
+5B070800,Техник проектно-конструкторского бюро,Technician Design Bureau
+5B070800,Инженер проектно-конструкторского бюро,Engineering Design Bureau
+5B070800,Специалист проектно-конструкторского бюро,Specialist Design Bureau
+5B070800,Специалист проектного института ,Specialist Design Institute
+5B070800,Лаборант научно-исследовательского института,Laboratory Research Institute
+5B070800,Младший научный сотрудник научно-исследовательского института,Junior Researcher Research Institute
+5B070800,Техник научно-исследовательского института,Technology Research Institute
+5B070800,Инженер научно-исследовательского института,Engineering Research Institute
+5B070700,Организатор горными и строительными работами,Organizer mining and construction
+5B070700,Создание(реорганизация) производственных участков,Creation (reorganization) production areas
+5B070700,Разработчик оперативных планов,Developer operational plans
+5B070700,Подготовка исходных данных,Preparation of initial data
+5B070700,Организатор производственных процессов,Organizer of production processes
+5B070700,Техник горных и строительных работ,Technician mining and construction
+5B070700,Техник расчета параметров,Method of calculating parameters
+5B070700,Эксплуатация и реконструкция горнодобывающих предприятий,Maintenance and reconstruction of mining enterprises
+5B070700,Аналитик информационных исходных данных,Analytic information source data
+5B070700,Разработчик проектно-конструкторской документации,The developer of the design documentation
+5B070700,Сбор и систематизация научно-технических данных,Collection and systematization of scientific and technical data
+5B070700,Математическое моделирование процессов,Mathematical modeling of processes
+5B070700,Математическая обработка и анализ результатов,Mathematical processing and analysis of results
+5B070600,Инженер,Engineer
+5B070600,Инженер-лаборант,Engineer technician
+5B070600,Техник ,Technician
+5B070600,Техник-лаборант,Laboratory technician
+5B070600,Инженер-техник,Technical engineer
+5B070600,Инженер-конструктор,Design Engineer
+5B070600,Геолог структурных регионов,Structural geologist regions
+5B070600,Анализ информации о геологических особенностях,Analysis of information on geological features
+5B070500,Специалист,Specialist
+5B070500,Ведущий специалист,Leading Specialist
+5B070500,Ведущий инженер,Lead Engineer
+5B070500,Инженер-программист,Software Engineer
+5B070500,Младший научный сотрудник,Junior Researcher
+5B070500,Преподаватель математики,mathematics teacher
+5B070500,Преподаватель информатики,Computer Science teacher
+5B070500,Преподаватель физики,physics teacher
+5B070500,Научный сотрудник,Researcher
+5B070500,Математик-программист,Mathematician-programmer
+5B070500,Инженер-математик,Engineering and mathematics
+5B070500,Разработчик компьютерных моделей,The developer of computer models
+5B070500,Системный программист,System programmer
+5B070500,Преподаватель математических дисциплин,Teacher mathematical disciplines
+5B070400,Разработчик программного обеспечения,Software Developer
+5B070400,Разработчик игр,game developer
+5B070400,Full stack разработчик,Full stack developer
+5B070400,Разработчик сайтов,Developer sites
+5B070400,Разработчик мобильных программ,Mobile Developer Program
+5B070400,Разработчик ios программ,Ios developer programs
+5B070400, C программист, C programmer
+5B070400,C# программист,C # Programmer
+5B070400,Backend разработчик,Backend developer
+5B070400,Системный администратор,System Administrator
+5B070400,Front end разработчик,Front end developer
+5B070400,3d аниматор,3d animator
+5B070400,Специалист по визуальным эффектам,Visual effects specialist
+5B070400,JAVA программист,JAVA programmer
+5B070400,Arduino разработчик,Arduino developer
+5B070400,Анализ данных,Data analysis
+5B070400,Организатор отдельных этапов процесса разработки,The organizer of the individual stages of the development process
+5B070400,"Оценка,контроль и управление процессом разработки","Assessment, monitoring and control of the development process"
+5B070400,"Инсталяция,настройка,обслуживание программного обеспечения","Installation, configuration, software maintenance"
+5B070400,Сопроводитель программных продуктов,Software maintainer
+5B070400,Проектирование архитектуры компонентов ,Component design architecture
+5B070400,Проектирование человека-машинного интерфейса,Designing human-machine interface
+5B070400,Проектирование систем обработки информации,Design of data processing systems
+5B070400,Разработчик программно аппаратных комплексов,The developer of software and hardware systems
+5B070300,Разработчик программного обеспечения,Software Developer
+5B070300,Разработчик игр,game developer
+5B070300,Full stack разработчик,Full stack developer
+5B070300,Разработчик сайтов,Developer sites
+5B070300,Разработчик мобильных программ,Mobile Developer Program
+5B070300,Разработчик ios программ,Ios developer programs
+5B070300, C программист, C programmer
+5B070300,C# программист,C # Programmer
+5B070300,Backend разработчик,Backend developer
+5B070300,Системный администратор,System Administrator
+5B070300,Front end разработчик,Front end developer
+5B070300,3d аниматор,3d animator
+5B070300,Специалист по визуальным эффектам,Visual effects specialist
+5B070300,JAVA программист,JAVA programmer
+5B070300,Arduino разработчик,Arduino developer
+5B070300,Анализ данных,Data analysis
+5B070300,Организатор отдельных этапов процесса разработки,The organizer of the individual stages of the development process
+5B070300,"Оценка,контроль и управление процессом разработки","Assessment, monitoring and control of the development process"
+5B070300,"Инсталяция,настройка,обслуживание программного обеспечения","Installation, configuration, software maintenance"
+5B070300,Сопроводитель программных продуктов,Software maintainer
+5B070300,Проектирование архитектуры компонентов ,Component design architecture
+5B070300,Проектирование человека-машинного интерфейса,Designing human-machine interface
+5B070300,Проектирование систем обработки информации,Design of data processing systems
+5B070300,Разработчик программно аппаратных комплексов,The developer of software and hardware systems
+5B070200,Диагност информационного и програмного обеспечения,Diagnostic information and software
+5B070200,Испытатель технического оборудования,Test the technical equipment
+5B070200,Разработчик технических средств автоматизации,Developer of automation hardware
+5B070200,Организатор производственного контроля процессов,Organizer of the production process control
+5B070200,Организатор работы коллектива исполнителей,Convener of the group of performers
+5B070200,Оценщик производственных и непроизводственных затрат,The evaluator of production and non-production costs
+5B070200,Разработчик обощенных вариантов решения проблем,The developer of generalized solutions to problems
+5B070200,Конструктор автоматизации производственных технологий,Designer automation of production technologies
+5B070200,Аналитик агрегатов и технологических процессов,Analyst aggregates and processes
+5B070200,Диагност средств контроля анализа,Diagnostic analysis of controls
+5B070100,Специалист(лаборант) в научно-исследовательских вузах,Specialist (technician) in research universities
+5B070100,Технолог в производственных лабораториях,Technologies in industrial laboratories
+5B070100,Специалист-технолог в биотехнологических производствах,Expert technician in the biotechnological productions
+5B070100,Специалист в сельскохозяйственной биотехнологии,One skilled in Agricultural Biotechnology
+5B070100,Специалист пищевого производства,food production specialist
+5B070100,Биотехнолог-селекционер,Biotechnology-breeder
+5B070100,Специалист в экологических службах и организациях,Specialist in environmental services
+5B070100,Преподаватель биологии,teacher of Biology
+5B061200,Метеоролог,Meteorologist
+5B061200,Специалист по охране окружающей среды,Environmental Protection Specialist
+5B061200,Климатолог,climatologist
+5B061200,Аэролог,aerology
+5B061200,Синоптик,Synoptic
+5B061200,Агрометеоролог,agrometeorologist
+5B061200,Преподаватель (Метеорология),Teacher (Meteorology)
+5B061200,Исследователь в области метелрологии,Researcher metelrologii
+5B061000,Гидролог,Hydrologist
+5B061000,Гидрохимик,hydrochemists
+5B061000,Специалист по охране окружающей среды,Environmental Protection Specialist
+5B061000,Специалист по гидропрогнозам,of specialist gidroprognozam
+5B061000,Гляциолог,glaciology
+5B061000,Селевед,Seleved
+5B061000,Исследователь,Researcher
+5B061000,Преподаватель гидрологии,teacher of hydrology
+5B061000,Гидрометеоролог,hydrometeorology
+5B060900,Экскурсовод,Guide
+5B060900,Инженер по охране окружающей среды,Engineer for Environmental Protection
+5B060900,Инженер лаборант,assistant engineer
+5B060900,Сотрудник геолог-географических организаций,Fellow geologist and geographical organizations
+5B060900,Сотрудник экономико-географических организаций,Fellow economic and geographical organizations
+5B060900,Специалист по прогнозированию и управлению,Forecasting and Management Specialist
+5B060800,Биоэколог,bIOECOLOGY
+5B060800,Водолаз,Diver
+5B060800,Геоэколог,Geoecology
+5B060800,Аппаратчик очистки сточных вод,Apparatus wastewater
+5B060800,Архитектор живых систем,Architect living systems
+5B060800,Гидроэколог,Hydroecolog
+5B060800,Дозиметрист,dosimetrist
+5B060800,Инженер комплексного использования водных ресурсов,Engineer integrated water management
+5B060800,Инженер по защите в чрезвычайных ситуациях,Engineer for the protection of emergency
+5B060800,Инженер по пожарной безопасности,Fire Safety Engineer
+5B060800,Инженер по охране труда,Engineer labor protection
+5B060800,Инженер-эколог,Environmental Engineer
+5B060800,Инженер по промышленной безопасности,Engineer Industrial Safety
+5B060800,Лаборант по анализу газов и пыли,Laboratory analysis of gases and dust
+5B060800,Инспектор по технике безопасности,Safety Inspector
+5B060800,Лаборант химико-бактериологического анализа,Chemical Laboratory bacteriological analysis
+5B060800,Лаборант-микробиолог,Laboratory microbiologist
+5B060800,Лаборант-поляграфист,Laboratory-polyagrafist
+5B060800,Лаборант-эколог,Laboratory ecologist
+5B060800,Проотборщик,Prootborschik
+5B060800,Специалист по техносферной безопасности,by technospheric Security Specialist
+5B060800,Эколог-проектировщик,Environmentalist designer
+5B060800,Техник-спасатель,Rescue techniques
+5B060800,Урбанист-эколог,Urbanist ecologist
+5B060800,Экоаналитик,Ecoanalytics
+5B060800,Экоаудитор,environmental auditors
+5B060800,Эксперт-эколог,Environmental expert
+5B060800,Экопроповедник,Ekopropovednik
+5B060800,Эколог,Ecologist
+5B060700,Ботаник,Botanist
+5B060700,Зоолог,Zoologist
+5B060700,Анатомия,Anatomy
+5B060700,Биохимик,Biochemist
+5B060700,Биофизик,biophysicist
+5B060700,Микробиолог,Microbiologist
+5B060700,Биолог(Природаохранник),Biologist (Prirodaohrannik)
+5B060500,Младший научный сотрудник,Junior Researcher
+5B060500,Старший лаборант,Senior Assistant
+5B060500,Специалист первой категории,Specialist of the first category
+5B060500,Специалист второй категории,Expert of the second category
+5B060500,Специалист высшей категории,Specialist of the highest category
+5B060500,Переводчик,Interpreter
+5B060500,Преподаватель физики,physics teacher
+5B060500,Инженер по ядерной технике,Engineer in nuclear engineering
+5B060300,Преподаватель дисциплин механических циклов в школе,Teacher disciplines of mechanical cycle to school
+5B060300,"Преподаватель физики, математики, информатики в школе","Professor of physics, mathematics, computer science school"
+5B060300,Исследователь в области механики,researcher in the field of mechanics
+5B060300,Инженерная деятельность в научно-производственных органицазиях,Engineering activities in the research and production organitsazii
+5B052100,"Сервис,экономика и управление","Service, Economics and Management"
+5B052100,Экономика(по отраслям),Economy (on branches)
+5B052100,Менеджмент (по отраслям и областя применения),Management (in industries and applications)
+5B052100,Маркетинг(по отраслям),Marketing (on branches)
+5B052100,Учет и аудит,Accounting and Auditing
+5B052100,Экономист по финансовой работе,Economist for financial work
+5B052100,Статист,supernumerary
+5B051900,Инженер,Engineer
+5B051900,Работник почтовой связи,postal service worker
+5B051500,Документовед,", document"
+5B051500,Архивист,archivist
+5B051500,Секретарь-референт,Office Assistant
+5B051500,Менеджер по персоналу(hr-менеджер),HR Manager (hr-manager)
+5B051500,Анилитик,Anilitik
+5B051500,Руководитель служб ДОУ,Head of preschool services
+5B051500,Хранитель фондов,Guardian funds
+5B051400,Политтехнолог,political consultant
+5B051400,Пресс-атташе,Press officer
+5B051400,Стендист,stand assistant
+5B051400,"Менеджер-BTL,PR,GR,FR","Manager-BTL, PR, GR, FR"
+5B051400,Имиджмейкер,image maker
+5B051400,Копирайтер,copywriter
+5B051400,Медиапланер,Media planners
+5B051400,Политтехнолог,political consultant
+5B051200,Специалист по статистике и планированию,the Statistics and Planning Specialist
+5B051200,Менеджер отдела статистика и анализа данных,Manager of statistics and data analysis
+5B051200,Помощник оператора в отдел статистики ,Assistant operator in the statistics department
+5B051200,Врач-статистик,Medical statistics
+5B051200,Оператор-статистик,Operator-statistics
+5B051200,Специалист отдела анализа департамента информации,The specialist department analysis to the Department
+5B051100,Менеджер по маркетингу,Marketing Manager
+5B051100,Менеджер по рекламе,Advertising Manager
+5B051100,Менеджер по сбыту,Sales manager
+5B051100,Менеджер по связам с общественностью,Public Relations Manager
+5B051100,Менеджер по торговле,Trade Manager
+5B051100,Бренд менеджер,brand manager
+5B051100,Менеджер по логистике,Logistics Manager
+5B051100,Эксперт менеджер,expert manager
+5B051100,Менеджер по качеству,Quality manager
+5B051100,Менеджер-товаровед,Manager-Goods
+5B051000,Экономист,Economist
+5B051000,Менеджер государственных предприятий,Manager of state-owned enterprises
+5B051000,Анилитик,Anilitik
+5B051000,Менеджер акционерных обществ,stock companies manager
+5B051000,Экономист-менеджер ,Economist-manager
+5B051000,Сотрудник органов управления,administration employee
+5B050700,Сотрудник в экономических структурах,Employee in economic structures
+5B050700,Сотрудник в социологических службах,An employee in the sociological service
+5B050700,Сотрудник в межотраслевых комплексах,An employee in the cross-industry complexes
+5B050700,Сотрудник в акционерных обществах,An employee in the Joint Stock Companies
+5B050700,Сотрудник в некоммерческих организациях,Employee non-profit organizations
+5B050500,Переводчик,Interpreter
+5B050500,Секретарь-референт,Office Assistant
+5B050500,Культуролог,Cultural studies
+5B050500,Пресс-секретарь,Press Secretary
+5B050500,Искусствовед,Art critic
+5B050500,Журналист-международник,International journalist
+5B050500,Арт-менеджер,Art Manager
+5B050500,Менеджер по логистике,Logistics Manager
+5B050500,Помощник руководителя,assistant manager
+5B050500,Регионовед,Area studies
+5B050500,Дипломат,Diplomat
+5B050400,Корреспондент,Correspondent
+5B050400,Репортер,The reporter
+5B050400,Литературный сотрудник(литсотрудник),Literature Officer (litsotrudnik)
+5B050400,Пресс-секретарь,Press Secretary
+5B050400,Референт,Referent
+5B050400,Сотрудник пресс-службы,press officer
+5B050400,Обозреватель,Reviewer
+5B050400,Комментатор,Commentator
+5B050400,Ведущий новостей,News presenter
+5B050400,Модератор,Moderator
+5B050400,Продюсер,Producer
+5B050400,Редактор-картограф,Map editors
+5B050400,Заместитель редактора,Assistant editor
+5B050400,Заведующий отделом,Head of division
+5B050400,Ответственный секретарь,Executive Secretary
+5B050400,Публицист,Publicist
+5B050400,Очеркист,Essayist
+5B050400,Фельетонист,Feuilletonist
+5B050400,Эксперт-информатор,Expert informant
+5B050400,Спичрайтер,speechwriter
+5B050400,Веб-редактор,Web Editor
+5B050400,Редактор-специалист,Editor Specialist
+5B050400,Рекламный агент,Advertising agent
+5B050300,HR-специалист,HR-specialist
+5B050300,T&D-менеджер,T & D-manager
+5B050300,L&D-менеджер,L & D-manager
+5B050300,Talant-менеджер,Talant-manager
+5B050300,"Асессор,специалист по ассессменту",Assessor at assessmentu Specialist
+5B050300,Бизнес-тренер,Business trainer
+5B050300,"Геронтоконсультант,геронтолог","Gerontokonsultant, gerontologist"
+5B050300,Детский психолог,Child psychologist
+5B050300,Игромастер,Igromaster
+5B050300,Игропедагог,Igropedagog
+5B050300,Игропрактик,Igropraktik
+5B050300,Инженерный психолог,engineering psychology
+5B050300,Карьерный консультант,Career consultant
+5B050300,Клинический психолог,clinical psychologist
+5B050300,Корпоративный антрополог,Corporate anthropologist
+5B050300,Коррекционный психолог,correctional psychology
+5B050300,Коуч,coach
+5B050300,Медиатор,Mediator
+5B050300,Менеджер по корпоративной культуре,Corporate culture manager
+5B050300,Менеджер по оценке персонала,Evaluation manager staff
+5B050300,Педагог-психолог,Teacher-psychologist
+5B050300,Полиграфолог,examiner
+5B050300,Профконсультант ,profkonsultanta
+5B050300,Психоаналитик,Psychoanalyst
+5B050200,Консультант по политическим вопросам,Political Consultant
+5B050200,Организатор предвыборного штаба,The organizer of the election headquarters
+5B050200,Специалист пресс-службы,the press-service specialist
+5B050200,Референт,Referent
+5B050200,Помощник депутата,assistant deputy
+5B050200,Организатор общественных мероприятий,Organizer of social events
+5B050200,Политтехнолог,political consultant
+5B050200,"Представитель общестенной,молодежной организации ","Obshchestennogo representative, youth organization"
+5B050200,Специалист по корпоративной политике и PR,Specialist in corporate policy and PR
+5B050200,Консультант в консалтинговом агенстве,Consultant in the consulting agency
+5B050200,Аналитик в государственном центре,An analyst at the National Center
+5B050200,Преподаватель на кафедре политологии,Lecturer at the Department of Political Science
+5B050200,Научный работник,Scientist
+5B050100,Специалист сбора данных,Expert data collection
+5B050100,HR-аналитик,HR-analyst
+5B050100,HR-специалист,HR-specialist
+5B050100,PR-менеджер,PR-manager
+5B050100,SMM-менеджер,SMM-manager
+5B050100,Аналитик данных,data analyst
+5B050100,Бизнес-аналитик,Business analyst
+5B050100,Бизнес-информатик ,Business Informatics
+5B050100,Бренд-менеджер,Brand Manager
+5B050100,Веб-аналитик,Web Analyst
+5B050100,Государственный служащий,State employee
+5B050100,Маркетолог,Marketer
+5B050100,Медиатор ,Mediator
+5B050100,Менеджер в индустрии моды,Manager in the fashion industry
+5B042200,Дизайнер ,Designer
+5B042200,Редактор,Editor
+5B042200,Верстка,Typesetting
+5B042100,Дизайнер архитектурной среды,Architectural designer
+5B042100,Промышленный дизайнер,industrial designer
+5B042100,Модельер одежды,Fashion designer
+5B042100,Дизайнер интерьера,Interior designer
+5B042100,Дизайнер ландшафта,landscape designer
+5B042100,Дизайнер декоративного искусства,The designer of decorative arts
+5B042100,Концепт дизайнер,concept designer
+5B042100,Разработчик экспозиций,Developer exposures
+5B042100,Графический дизайнер,Graphic Designer
+5B042100,Монументально-декоративное искусство,Monumental and decorative art
+5B042000,Разработчик проектно-сметной документаций,Developer of design and estimate documentation
+5B042000,Разработчик функционально-конструктивных решений,Developer of functional and design solutions
+5B042000,Инженер-лаборант,Engineer technician
+5B042000,Инженер научно-исследовательских учреждений,Engineering research institutions
+5B041900,Научный сотрудник научно-исследовательского отдела,"Researcher, Research Division"
+5B041900,Научный сотрудник экспозиционного отдела,Researcher expositional department
+5B041900,Научный сотрудник вондового отдела,Researcher Department vondovogo
+5B041900,Заведующий отделом,department head
+5B041900,Гид-экскурсовод,Tourist guide
+5B041900,Ученый секретарь,Scientific Secretary
+5B041900,Главный хранитель,chief Curator
+5B041900,Заместитель директора,Deputy Director
+5B041900,Директор музея,museum Director
+5B041900,Референт,Referent
+5B041900,Консультант,Consultant
+5B041900,Эксперт-искусствовед,Expert art
+5B041900,Ведущий специалист в области культуры и охраны памятников,A leading specialist in the field of Culture and Monument Protection
+5B041900,Преподаватель истории и организатор музейных работ,History teacher and organizer of museum work
+5B041900,Организатор краеведческих работ,Organizer of local history work
+5B041700,Художник по текстилю,Textile artist
+5B041700,Художник по обработке металла,Metalworking artist
+5B041700,Художник-керамист,Ceramic artist
+5B041700,Художник по обработке дерева,wood carving artist
+5B041700,Дизайнер народных промыслов,Designer crafts
+5B041700,Художник декоративного искусства,Artist Decorative Art
+5B041400,Оформитель книги,book designer
+5B041400,Печатник-график,The printer graphic
+5B041400,Художник,Artist
+5B041400,Типография,Typography
+5B041400,Преподаватель,Teacher
+5B041400,Дизайнер графических работ,Designer graphic works
+5B041300,Художник-живописец,Painter
+5B041300,Художник-реставратор,Art restorer
+5B041300,Художник-монументалист,Muralist
+5B041300,Художник-археолог,The artist-archaeologist
+5B041300,Художник-эстетик,The artist-esthete
+5B041200,Оператор кино и телевидения,Film and television operator
+5B040600,Арт-менеджер,Art Manager
+5B040600,Кинокритик,Film critic
+5B040600,Продюсер,Producer
+5B040600,Кинорежиссер,filmmaker
+5B040600,Режиссер-постановщик,Producer
+5B040600,Режисер анимации,Directed by animation
+5B040600,Режисер мультимедиа-программ,Directed by multimedia programs
+5B040600,Режиссер интернет-программ,Director of Internet programs
+5B040600,Телережиссер,TV director
+5B040600,Сценарист,Screenwriter
+5B040600,Ведущий радио,leading radio
+5B040600,Ведущий телевиденья,leading teleimage
+5B040300,Музыкальный редактор,music editor
+5B040300,Искусствовед,Art critic
+5B040300,Преподаватель вокального исскуства,Teacher of vocal arts
+5B040300,Культоролог,Kultorolog
+5B040200,Музыкальный редактор,music editor
+5B040200,Музыкант (Скрипка),Musician (violin)
+5B040200,Музыкант (Контрабас),Musician (bass)
+5B040200,Музыкант (Виолончель),Musician (Cello)
+5B040200,Музыкант (Альт),Musician (Viola)
+5B040200,Музыкант (Арфа),Musician (harp)
+5B040200,Музыкант (Челеста,Musician (Celesta
+5B040200,Музыкант (Саксофон),Musician (Sax)
+5B040200,Музыкант (Флейта),Musician (Flute)
+5B040200,Музыкант (Гобой),Musician (oboe)
+5B040200,Музыкант (Кларнет),Musician (Clarinet)
+5B040200,Музыкант (Труба),Musician (tube)
+5B040200,Музыкант (Валторна),Musician (horn)
+5B040200,Музыкант (Тромбон),Musician (trombone)
+5B040200,Музыкант (Туба),Musician (Tube)
+5B040200,Музыкант (Синтезатор),Musician (synthesizer)
+5B040200,Музыкант (Электрогитара),Musician (Electric)
+5B040200,Музыкант (Саксофон),Musician (Sax)
+5B040200,Музыкант (Саксофон),Musician (Sax)
+5B030400,Инспектор таможни,customs inspector
+5B030400,Киберследователь ,Kibersledovatel
+5B030400,Логист ,logistician
+5B030400,Логистик ,Logistic
+5B030400,Менеджер ВЭД,business affairs
+5B030400,Менеджер по логистике ,Logistics Manager
+5B030400,Полицейский,Policeman
+5B030400,Следователь ,Investigator
+5B030400,Таможенник ,customs official
+5B030400,Таможенный брокер ,Customs Broker
+5B030400,Таможенный декларант,customs declarant
+5B030300,Следователь,Investigator
+5B030300,Дознаватель,Investigator
+5B030300,Криминалист,criminalist
+5B030300,Участковый,The district
+5B030300,Начальник отдела,Head of Department
+5B030300,Адвокат,Lawyer
+5B030300,Работник нотариуса,notary worker
+5B030300,Судмедэксперт,medical examiner
+5B030300,Юрист ,Lawyer
+5B030300,Юрисконсультант,Legal Adviser
+5B030300,Медиаполицейский,Mediapolitseysky
+5B030300,Полицейский,Policeman
+5B030300,Прокурор,prosecutor
+5B030300,Секретарь суда,clerk of court
+5B030300,Судья,Judge
+5B030300,Инспектор уголовного розыска,Inspector of Criminal Investigation
+5B030100,Следователь,Investigator
+5B030100,Дознаватель ,Investigator
+5B030100,Криминалист,criminalist
+5B030100,Участковый,The district
+5B030100,Начальник отдела,Head of Department
+5B030100,Адвокат ,Lawyer
+5B030100,Нотариус,Notary
+5B030100,Судмедэксперт,medical examiner
+5B030100,Юрист,Lawyer
+5B030100,Консультант по юридическим вопросам,Committee on Legal Affairs Consultant
+5B021500,Догматик,Dogmatist
+5B021500,Культуролог,Cultural studies
+5B021500,Источниковед,source studies
+5B021500,Исследователь мусульманского права,Researcher of Islamic law
+5B021500,Специалисты по мусульманской философии,Experts in Islamic philosophy
+5B021500,Страновед,stranoveda
+5B021500,Этнограф,Ethnographer
+5B021500,Политолог,Political scientist
+5B021500,Культуролог,Cultural studies
+5B021500,Мусульманские авторы,Muslim authors
+5B021500,Религиовед,religious scholar
+5B021500,Преподаватель арабского языка,Arabic language teacher
+5B021500,Переводчик арабского языка,Arabic Translator
+5B021100,Исламовед,on Islam
+5B021100,Мулла,mullah
+5B021100,Преподаватель религиоведения,teacher of religious Studies
+5B021100,Религовед,Religoved
+5B021100,Священнослужитель,minister
+5B021100,Теолог,Theologian
+5B021100,Иконописец,iconographer
+5B021022,Преподаватель французского языка,Teacher of French
+5B021022,Переводчик французского языка,French translator
+5B021022,Редактор(Французский язык),Editor (French language)
+5B021021,Преподаватель индийского языка,Teacher Indian language
+5B021021,Переводчик индийского языка,Indian Language Translator
+5B021021,Редактор(Индийский язык),Editor (Indian language)
+5B021020,Преподаватель уйгурского языка,Teacher Uighur language
+5B021020,Переводчик уйгурского языка,Uighur language translator
+5B021020,Редактор(Уйгурский язык),Editor (Uyghur)
+5B021019,Преподаватель узбекского языка,Uzbek language teacher
+5B021019,Переводчик узбекского языка,Uzbek translator
+5B021019,Редактор(Узбекский язык),Editor (Uzbek)
+5B021018,Преподаватель персидского языка,Teacher of Persian language
+5B021018,Переводчик персидского языка,Persian Translator
+5B021018,Редактор(Персидский язык),Editor (Farsi)
+5B021017,Преподаватель японского языка,Japanese language teacher
+5B021017,Переводчик японского языка,Japanese Translator
+5B021017,Редактор(Японский язык),Editor (Japanese)
+5B021016,Преподаватель китайского языка,Chinese Language Teacher
+5B021016,Переводчик китайского языка,Translator Chinese
+5B021016,Редактор(Китайский язык),Editor (Chinese)
+5B021015,Преподаватель корейского языка,Korean language teacher
+5B021015,Переводчик корейского языка,Korean Translator
+5B021015,Редактор(Корейский язык),Editor (Korean language)
+5B021014,Преподаватель турецкого языка,Turkish language teacher
+5B021014,Переводчик турецкого языка,Turkish Translator
+5B021014,Редактор(Турецкий язык),Editor (Turkish)
+5B021013,Преподаватель арабского языка,Arabic language teacher
+5B021013,Переводчик арабского языка,Arabic Translator
+5B021013,Редактор(Арабский язык),Editor (Arabic)
+5B021012,Преподаватель немецкого языка,German language teacher
+5B021012,Переводчик немецкого языка,Translator German
+5B021012,Редактор(Немецкий язык),Editor (German)
+5B021000,Преподаватель английского языка,English Teacher
+5B021000,Переводчик английского языка,English translator
+5B021000,Редактор(Английский язык),Editor (English)
+5B020900,Востоковед-филолог,Orientalist-philologist
+5B020900,Преподаватель восточного языка и культуры,Eastern language and culture teacher
+5B020900,Переводчик-референт,Translator-interpreter
+5B020900,Востоковед-историк,Orientalist and historian
+5B020900,Преподаватель истории,history teacher
+5B020900,Культоролог,Kultorolog
+5B020800,Преподаватель исторических дисциплин,Teacher historical disciplines
+5B020800,Археолог,Archaeologist
+5B020800,Организатор археологических экспедиций,Organizer archaeological expeditions
+5B020800,Этнолог,ethnologist
+5B020800,Координатор частными и национальными культурными фондами,Coordinator of the private and national cultural funds
+5B020800,Эксперт историческо-художественных дисциплин,Expert historical and artistic disciplines
+5B020800,Консультант по учету и реставрации,for accounting and restoration consultant
+5B020800,Специалист археологий и этнологий,Specialist archeology and ethnology
+5B020800,Координатор в сфере культуры,in the cultural field coordinator
+5B020800,Консультант в области археололгии и музееведения,Consultant in the field of museology and arheololgii
+5B020700,Переводчик во всех сферах деятельности,Translator in all spheres of activity
+5B020700,Переводчик-референт,Translator-interpreter
+5B020700,Переводчик-гид,Translator-guide
+5B020700,Переводчик-синхронист,Simultaneous interpreter
+5B020600,Антрополог,Anthropologist
+5B020600,Историк,Historian
+5B020600,Научный сотрудник ,Researcher
+5B020600,Преподаватель религиоведения,teacher of religious Studies
+5B020600,Религовед,Religoved
+5B020600,Священнослужитель,minister
+5B020600,Теолог,Theologian
+5B020600,Учитель основ праваславной культуры,pravaslavnoy cultural foundations of the teacher
+5B020600,Философ ,Philosopher
+5B012900,Сотрудник отдела образония и инфраструктуры,At the Department of Infrastructure and obrazoniya
+5B012900,Сотрудник организаций производства и сектора услуг,Employee organizations and the production of the service sector
+5B012900,Охрана природы и экологии,Nature conservation and ecology
+5B012900,Географ,Geographer
+5B012900,Историк,Historian
+5B012900,Геолог,Geologist
+5B012900,Эколог,Ecologist
+5B012900,Картограф,Cartographer
+5B012300,Педагог-психолог в учебно-воспитательных учреждениях,Teacher-psychologist in educational institutions
+5B012000,Педагог профессионального обучения,vocational training teacher
+5B011800,Лингвист,Linguist
+5B011800,Журналист ,Journalist
+5B011800,Верстальщик,makeup man
+5B011800,Корректор ,Corrector
+5B011800,Логопед,Speech therapist
+5B011800,Специалист по связям с общественностью,Public Relations Specialist
+5B011800,Учитель ,Teacher
+5B011700,Преподаватель казахского языка и литературы,Teacher of the Kazakh language and literature
+5B011700,Сотрудник государственных органов,Civil servants
+5B011600,Преподаватель географии,geography teacher
+5B011600,Редактор-картограф,Map editors
+5B011600,Эксперт природаохранных советов,Expert tips prirodaohrannyh
+5B011600,Научный сотрудник,Researcher
+5B011600,Предоставление туристических услуг,Provision of tourist services
+5B011600,Эколого-географический мониторинг,Ecological and geographical monitoring
+5B011600,Разработка учебных программ по географии,Develop training programs in geography
+5B011600,Топограф картологических сьемок,Surveyor kartologicheskih filming
+5B011600,Исследователь географических проблем,Researcher geographical problems
+5B011400,Историк,Historian
+5B011400,Преподаватель,Teacher
+5B011400,Консультант,Consultant
+5B011400,Организатор,Organizer
+5B011400,Координатор структурных подразделений,Coordinator of the structural units
+5B011300,Учитель биологии,Biology teacher
+5B011300,Сотрудник научного производства,An employee of scientific production
+5B010800,Инструктор ЛФК,exercise physiologist
+5B010800,Инструктор по адаптивной физкультуре,Adaptive physical education instructor
+5B010800,Инструктор по спортивному туризму,Instructor of sports tourism
+5B010800,Иструктор по физкультуре,Istruktor of Physical Education
+5B010800,Педагог по адаптивной физкультуре,Adaptive physical education teacher
+5B010800,Спортивный судья,sports judge
+5B010800,Спортивный менеджер,sports manager
+5B010800,Специалист по антидопинговому обеспечению,provision of anti-doping expert
+5B010800,Учитель физкультуры,Physical education teacher
+5B010800,Спортивный тренер,Coach
+5B010800,Фитнес тренер,Fitness trainer
+5B010700,Художник,Artist
+5B010700,Преподаватель,Teacher
+5B010700,Экскурсовод,Guide
+5B010700,Эксперт национальной культуры,The expert of the national culture
+5B010700,Художественное оформление интерьера,Art interior design
+5B010600,Учитель музыки ,Music teacher
+5B010600,Музыкальный руководитель в дошкольной организации,Musical director in preschool organization
+5B010600,Преподаватель педагогического колледжа,Teachers College Teacher
+5B010600,Специалист в департаменте управления образованием,One skilled in the form management department
+5B010500,Олигофренопедагог,oligophrenopedagogs
+5B010500,Учитель-дефектолог,Teacher-therapist
+5B010500,Логопед для детей с нарушениями интеллекта,Speech therapist for children with intellectual disabilities
+5B010500,Логопед,Speech therapist
+5B010500,Психолог,Psychologist
+5B010500,Невропатолог,neuropathist
+5B010400,Учитель НВП,teacher NVP
+5B010300,Педагог-психолог в учебно-воспитательных учреждениях,Teacher-psychologist in educational institutions
+5B010300,Младшим научным работником в НИИ системы образования,Junior research worker at the Research Institute of the education system
+5B010300,Преподаватель педагогики и психологии,Teacher of Pedagogy and Psychology
+5B010300,Социальный  педагог в домах-интернатах,Social educator in nursing homes
+5B010300,Специалист в административных органах,Specialist in administrative bodies
+5B010300,Менеджер по персоналу кадровых службах организаций,HR Manager Personnel Service Organizations
+5B010200,Диагностическая-изучение личности школьника ,Diagnostic-study of the individual student
+5B010200,Организатор-технолог,Organizer technologist
+5B010200,Управляющий педагог,Managing teacher
+5B010200,Моделирование образования в начальной школе ,Modeling education in primary school
+5B010200,Научный исследователь,researcher
+5B010100,Педагог дошокольных организаций,Teacher organizations doshokolnyh
+5B010100,Педагог,educator
